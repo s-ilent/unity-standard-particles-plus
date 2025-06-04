@@ -1,0 +1,14 @@
+{
+  "name": "com.s-ilent.unityparticlesplus.Editor",
+  "references": [
+    "com.s-ilent.unityparticlesplus"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "com.s-ilent.unityparticlesplus",
+  "displayName": "com.s-ilent.unityparticlesplus",
+  "version": "1.0.0",
+  "description": "Adds some minor new features to the Unity Standard Particles shader.",
+  "dependencies": {},
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "Silent",
+    "email": "silent@noemail.xyz",
+    "url": "https://github.com/s-ilent"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+}
